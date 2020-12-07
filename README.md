@@ -4,7 +4,7 @@ https://medium.com/@amitvermaa93/jenkins-setup-windows-1e253682aa53
 
 https://www.youtube.com/watch?v=-VaVmb_UOC8
 
-
+https://www.eficode.com/blog/jenkins-groovy-tutorial
 
 ---------------------------------------------------------
 JaCoCo End-to-End Code Coverage at Runtime  : https://dzone.com/articles/code-coverage-report-generator-for-java-projects-a
