@@ -6,6 +6,8 @@ https://www.youtube.com/watch?v=-VaVmb_UOC8
 
 https://www.eficode.com/blog/jenkins-groovy-tutorial
 
+trouble shoot ing :: https://stackoverflow.com/questions/50718320/java-lang-nosuchmethoderror-no-such-dsl-method-pipeline-found-when-running
+
 ---------------------------------------------------------
 JaCoCo End-to-End Code Coverage at Runtime  : https://dzone.com/articles/code-coverage-report-generator-for-java-projects-a
 ------------------------------------------------------
