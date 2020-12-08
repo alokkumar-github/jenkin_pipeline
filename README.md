@@ -6,6 +6,8 @@ https://www.youtube.com/watch?v=-VaVmb_UOC8
 
 https://www.eficode.com/blog/jenkins-groovy-tutorial
 
+CI CD Of Docker Containers | DevOps | Jenkins Pipeline Tutorial | Docker CI/CD | DevOps CI/CD : https://www.youtube.com/watch?v=gdbA3vR2eDs
+
 jenkins installation trouble shoot ing :: https://stackoverflow.com/questions/50718320/java-lang-nosuchmethoderror-no-such-dsl-method-pipeline-found-when-running
 
 ---------------------------------------------------------
